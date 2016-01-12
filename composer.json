@@ -1,12 +1,16 @@
 {
     "name": "edouardtack/loaderyaml",
-    "description": "LoaderYaml plugin for CakePHP. You can load yaml config files.",
     "type": "cakephp-plugin",
+    "description": "LoaderYaml plugin for CakePHP. You can load yaml config files.",
+    "keywords": ["CakePHP","Yaml","Loader"],
+    "homepage": "https://github.com/EdouardTack/loaderyaml",
     "license": "MIT",
     "authors": [
         {
             "name": "Edouard Tack",
-            "email": "edouard@tackacoder.fr"
+            "email": "edouard@tackacoder.fr",
+            "homepage": "http://www.tackacoder.fr",
+            "role": "Developer"
         }
     ],
     "require": {
